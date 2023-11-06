@@ -1,0 +1,6 @@
+# VSC
+.vscode
+
+# Salidas
+/bin
+/obj
